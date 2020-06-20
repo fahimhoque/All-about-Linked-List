@@ -24,7 +24,7 @@ int main(){
     node* third = NULL;
     
 
-    //allocate 3 nodes in the heap
+    // allocate 3 nodes in the heap
     head = new node();
     second = new node();
     third = new node();
